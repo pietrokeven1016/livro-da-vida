@@ -1,0 +1,43 @@
+{
+  "name": "Novo Herói",
+  "class": "Nenhuma",
+  "level": 1,
+  "age": 20,
+  "raca": "Nenhuma",
+  "abates": 600,
+  "animalia": 12,
+  "ar": 0,
+  "ritualStage": 3,
+  "animaliaMax": 3000,
+  "baseAttrs": {
+    "con": 0,
+    "for": 0,
+    "des": 0,
+    "int": 0,
+    "ins": 0,
+    "car": 0
+  },
+  "bonusAttrs": {
+    "con": 0,
+    "for": 0,
+    "des": 0,
+    "int": 0,
+    "ins": 0,
+    "car": 0
+  },
+  "circulos": "0",
+  "baseAltura": 1.7,
+  "baseCa": 0,
+  "bonusHP": 0,
+  "bonusCA": 0,
+  "bonusCirc": 0,
+  "bonusAR": 0,
+  "textData": {
+    "itens": "",
+    "rituais": "\n[Ritual 1 Realizado] - Animalia zerada.\n[Ritual 2 Realizado] - Animalia zerada.\n[Ritual 3 Realizado] - Animalia zerada.",
+    "pactos": "",
+    "maldição": "",
+    "curse": ""
+  },
+  "_postRitual3HpMult": 12
+}
